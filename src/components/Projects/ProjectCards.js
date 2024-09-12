@@ -1,5 +1,4 @@
 import React from "react";
-import video1 from '../../../src/Assets/video/Encanto+Animation.mp4';
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";

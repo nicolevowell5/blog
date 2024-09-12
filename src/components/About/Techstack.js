@@ -3,29 +3,17 @@ import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import { FaBlender } from "react-icons/fa";
 import {
-  DiJavascript1,
-  DiReact,
   DiUnitySmall,
-  DiNodejs,
-  DiMongodb,
   DiPython,
-  DiGit,
-  DiJava,
-  DiHtml53DEffects,
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
   SiSolidity,
   SiWebgl,
-  SiPostgresql,
   SiUnrealengine,
   SiAdobephotoshop,
   SiWeb3Dotjs,
   SiBlockchaindotcom,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (

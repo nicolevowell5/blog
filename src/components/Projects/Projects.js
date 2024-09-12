@@ -8,12 +8,6 @@ import editor from "../../Assets/Projects/img4.png";
 import chatify from "../../Assets/Projects/img1.png";
 import suicide from "../../Assets/Projects/game3.png";
 import bitsOfCode from "../../Assets/Projects/img2.png";
-import video1 from '../../../src/Assets/video/Encanto+Animation.mp4';
-import video2 from '../../../src/Assets/video/game-trailer.mp4';
-import video3 from '../../../src/Assets/video/girl_photoshoot_animation-D.mp4';
-import video4 from '../../../src/Assets/video/Mammoth_attack.mov';
-import video5 from '../../../src/Assets/video/NFT+Animation.mp4';
-import video6 from '../../../src/Assets/video/Peacock+Video.mp4';
 
 function Projects() {
   return (
